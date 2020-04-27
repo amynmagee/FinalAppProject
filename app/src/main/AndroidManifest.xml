@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.finalapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".TwoActivity"></activity>
+        <activity android:name=".FemaleActivity"></activity>
+        <activity android:name=".MaleActivity"></activity>
+        <activity android:name=".AdultFActivity"></activity>
+        <activity android:name=".AdultFCheapActivity"></activity>
+        <activity android:name=".AdultFCheapCasualActivity"></activity>
+        <activity android:name=".AdultFCheapFormalActivity"></activity>
+        <activity android:name=".AdultFCheapAccessoriesActivity"></activity>
+        <activity android:name=".AdultFMidActivity"></activity>
+        <activity android:name=".AdultFMidCasualActivity"></activity>
+        <activity android:name=".AdultFMidFormalActivity"></activity>
+        <activity android:name=".AdultFMidAccessoriesActivity"></activity>
+        <activity android:name=".AdultFHighActivity"></activity>
+        <activity android:name=".AdultFHighCasualActivity"></activity>
+        <activity android:name=".AdultFHighFormalActivity"></activity>
+        <activity android:name=".AdultFHighAccessoriesActivity"></activity>
+        <activity android:name=".AdultMActivity"></activity>
+        <activity android:name=".AdultMCheapActivity"></activity>
+        <activity android:name=".AdultMCheapCasualActivity"></activity>
+        <activity android:name=".AdultMCheapFormalActivity"></activity>
+        <activity android:name=".AdultMCheapAccessoriesActivity"></activity>
+        <activity android:name=".AdultMMidActivity"></activity>
+        <activity android:name=".AdultMMidCasualActivity"></activity>
+        <activity android:name=".AdultMMidFormalActivity"></activity>
+        <activity android:name=".AdultMMidAccessoriesActivity"></activity>
+        <activity android:name=".AdultMHighActivity"></activity>
+        <activity android:name=".AdultMHighCasualActivity"></activity>
+        <activity android:name=".AdultMHighFormalActivity"></activity>
+        <activity android:name=".AdultMHighAccessoriesActivity"></activity>
+        <activity android:name=".JuniorsFActivity"></activity>
+        <activity android:name=".JuniorsFCheapActivity"></activity>
+        <activity android:name=".JuniorsFCheapAccessoriesActivity"></activity>
+        <activity android:name=".JuniorsFCheapCasualActivity"></activity>
+        <activity android:name=".JuniorsFCheapFormalActivity"></activity>
+        <activity android:name=".JuniorsFMidActivity"></activity>
+        <activity android:name=".JuniorsFMidAccessoriesActivity"></activity>
+        <activity android:name=".JuniorsFMidCasualActivity"></activity>
+        <activity android:name=".JuniorsFMidFormalActivity"></activity>
+        <activity android:name=".JuniorsFHighActivity"></activity>
+        <activity android:name=".JuniorsFHighAccessoriesActivity"></activity>
+        <activity android:name=".JuniorsFHighCasualActivity"></activity>
+        <activity android:name=".JuniorsFHighFormalActivity"></activity>
+        <activity android:name=".JuniorsMActivity"></activity>
+        <activity android:name=".JuniorsMCheapActivity"></activity>
+        <activity android:name=".JuniorsMCheapAccessoriesActivity"></activity>
+        <activity android:name=".JuniorsMCheapCasualActivity"></activity>
+        <activity android:name=".JuniorsMCheapFormalActivity"></activity>
+        <activity android:name=".JuniorsMMidActivity"></activity>
+        <activity android:name=".JuniorsMMidAccessoriesActivity"></activity>
+        <activity android:name=".JuniorsMMidCasualActivity"></activity>
+        <activity android:name=".JuniorsMMidFormalActivity"></activity>
+        <activity android:name=".JuniorsMHighActivity"></activity>
+        <activity android:name=".JuniorsMHighAccessoriesActivity"></activity>
+        <activity android:name=".JuniorsMHighCasualActivity"></activity>
+        <activity android:name=".JuniorsMHighFormalActivity"></activity>
+        <activity android:name=".KidsFActivity"></activity>
+        <activity android:name=".KidsFCheapActivity"></activity>
+        <activity android:name=".KidsFCheapAccessoriesActivity"></activity>
+        <activity android:name=".KidsFCheapCasualActivity"></activity>
+        <activity android:name=".KidsFCheapFormalActivity"></activity>
+        <activity android:name=".KidsFMidActivity"></activity>
+        <activity android:name=".KidsFMidAccessoriesActivity"></activity>
+        <activity android:name=".KidsFMidCasualActivity"></activity>
+        <activity android:name=".KidsFMidFormalActivity"></activity>
+        <activity android:name=".KidsFHighActivity"></activity>
+        <activity android:name=".KidsFHighAccessoriesActivity"></activity>
+        <activity android:name=".KidsFHighCasualActivity"></activity>
+        <activity android:name=".KidsFHighFormalActivity"></activity>
+        <activity android:name=".KidsMActivity"></activity>
+        <activity android:name=".KidsMCheapActivity"></activity>
+        <activity android:name=".KidsMCheapAccessoriesActivity"></activity>
+        <activity android:name=".KidsMCheapCasualActivity"></activity>
+        <activity android:name=".KidsMCheapFormalActivity"></activity>
+        <activity android:name=".KidsMMidActivity"></activity>
+        <activity android:name=".KidsMMidAccessoriesActivity"></activity>
+        <activity android:name=".KidsMMidCasualActivity"></activity>
+        <activity android:name=".KidsMMidFormalActivity"></activity>
+        <activity android:name=".KidsMHighActivity"></activity>
+        <activity android:name=".KidsMHighAccessoriesActivity"></activity>
+        <activity android:name=".KidsMHighCasualActivity"></activity>
+        <activity android:name=".KidsMHighFormalActivity"></activity>
+    </application>
+
+</manifest>
